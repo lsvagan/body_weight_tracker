@@ -2,7 +2,7 @@
 
 This app allow users to create account, enter date and body weight measurement. All measurements are saved and user can keep track all of his measurements in this application.
 
-![projectimg](https://user-images.githubusercontent.com/40333608/51772889-7c85eb00-20ed-11e9-87ba-1003e2764381.jpg)
+![projectimg](https://user-images.githubusercontent.com/40333608/51773414-11d5af00-20ef-11e9-8bd6-5b9d55cd6446.jpg)
 
 ## Functionality
 1. CREATE
