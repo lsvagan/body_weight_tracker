@@ -1,7 +1,7 @@
-DROP DATABASE IF EXISTS proba;
-CREATE DATABASE proba;
+DROP DATABASE IF EXISTS weight_tracker;
+CREATE DATABASE weight_tracker;
 
-\c proba;
+\c weight_tracker;
 
 CREATE TABLE IF NOT EXISTS users(
    user_id SERIAL PRIMARY KEY,

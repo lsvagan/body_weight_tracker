@@ -6,7 +6,7 @@ const bcrypt = require('bcryptjs');
 const saltRounds = 10;
 
 const pgp = require('pg-promise')();
-const db = pgp('postgres://postgres:test@localhost:5432/proba');
+const db = pgp('postgres://postgres:test@localhost:5432/weight_tracker');
 
 const app = express();
 
