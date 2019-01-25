@@ -1,0 +1,16 @@
+.measurement{
+   background: rgb(27, 124, 166);
+   width: 450px;
+   /*border:1px solid black;*/
+   border-radius: 20px;
+   box-shadow: 2px 2px 10px #888888;
+   margin: 5px 0;
+   color: white;
+}
+
+.mesurementsList{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin:20px 0;
+}
