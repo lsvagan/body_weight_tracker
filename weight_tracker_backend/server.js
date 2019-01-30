@@ -15,9 +15,8 @@ app.use(bodyParser.json());
 
 
 app.get('/', (req,res) => {
-   db.any('SELECT * FROM users')
-   .then(data => console.log('DATA:', data))
-   .catch(err => console.log('ERROR:', err))
+   console.log('Working well');
+   res.json("Communication with server works");
 })
 
 
